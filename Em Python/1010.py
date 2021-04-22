@@ -1,0 +1,11 @@
+cda,una,preca = input().split(" ")
+cda = int(cda) 
+una = int(una) 
+preca = float(preca)
+cdb,unb,precb = input().split(" ")
+cdb = int(cdb) 
+unb = int(unb) 
+precb = float(precb)
+valor = (una*preca)+(unb*precb)
+
+print('VALOR A PAGAR: R$ {:.2f}'.format(valor))
