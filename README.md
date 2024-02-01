@@ -1,5 +1,7 @@
 # URI/beecrowd
 
+## Meu perfil :tipping_hand_man: https://www.urionlinejudge.com.br/judge/pt/profile/349102</p>
+
 ## Mas o que tem nesse repositório? :monocle_face:
 - Aqui você encontrará algumas soluções para problemas do URI Online Judge(atualmente *beecrowd*), uma plataforma de desafios de programação que oferece uma variedade de problemas para os programadores testarem suas habilidades.  
 - As soluções estão disponíveis em diversas linguagens de programação, como C, Python, Ruby, Javascript e Pascal. *Sendo na linguagem C que contém a maior quantidade de soluções*.
